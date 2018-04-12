@@ -1,1 +1,11 @@
-theme: jekyll-theme-time-machine
+# basic options
+title: Linux For Students
+author: Jack Huang
+email: jackhuang719668276@163.com
+description: A wonderful site
+twitter_username: Jack_Huang
+github_username:  HuangJiaLian
+
+# Build settings
+markdown: kramdown
+theme: minima
